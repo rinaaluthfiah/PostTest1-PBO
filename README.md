@@ -43,6 +43,7 @@ Setelah memilih opsi nomor 1, program meminta pengguna untuk menginput beberapa 
 Disini pengguna menginput angka 2, maka akan menampilkan  seluruh data konsultasi yang ada dalam sistem. 
 
 <img width="585" height="429" alt="image" src="https://github.com/user-attachments/assets/4f87992f-9f0a-43bf-b180-fc78b948a320" />
+
 Program akan menampilkan seluruh data pasien yang telah tersimpan, mulai dari nama pasien, keluhan yang dialami, hingga jadwal konsultasi masing-masing.
 
 ## 3. Perbarui Data Konsultasi
@@ -52,7 +53,7 @@ Sebelum Data  ke-2  diperbarui:
 Setelah Data  ke-2  diperbarui:
 <img width="622" height="325" alt="image" src="https://github.com/user-attachments/assets/6c52708c-0c16-44f3-b0e5-872ba3e1b3eb" />
 
-Pengguna menginputkan angka 3 untuk memperbarui data konsultasi, disini pengguna memilih data nomor 2 untuk diubah. Data pasien Siti Rahma diperbarui menjadi Siti Rahma Aulia dengan jadwal konsultasi baru 14-09-2025. Setelah itu, sistem menampilkan pesan “Data berhasil diubah!” sebagai konfirmasi bahwa data berhasil diperbarui.
+Pengguna ingin memperbarui data konsultasi, disini pengguna memilih data nomor 2 untuk diubah. Data pasien Siti Rahma diperbarui menjadi Siti Rahma Aulia dengan jadwal konsultasi baru 14-09-2025. Setelah itu, sistem menampilkan pesan “Data berhasil diubah!” sebagai konfirmasi bahwa data berhasil diperbarui.
 
 
 
