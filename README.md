@@ -69,6 +69,7 @@ Setelah Data   diperbarui:
 Disini pengguna memilih menu program 4, ketika pengguna memasukkan angka 3, program akan menghapus data konsultasi pada urutan tersebut dari sistem. Setelah proses selesai, program menampilkan pesan konfirmasi bahwa data nomor 3 berhasil dihapus.
 
 <img width="564" height="340" alt="image" src="https://github.com/user-attachments/assets/bf59b7c8-85ca-45b8-8dff-afd5ae3ae55e" />
+
 Pengguna ingin memastikan data benar terhapus atau tidak. Dan pada tampilan diatas data ke-3 berhasil dihapus dari sistem.
 
 
