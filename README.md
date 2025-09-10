@@ -28,14 +28,37 @@ Program meminta pengguna memasukkan angka antara 1 sampai 5 sesuai opsi yang ada
 
 Pengguna diminta untuk menginputkan ulang dengan benar, setelah itu akan masuk ke dalam daftar menu yang dipilih.
 
-## 1. Menu Utama 
+## 1. Tambah Data Konsultasi 
 <img width="630" height="291" alt="image" src="https://github.com/user-attachments/assets/95c71689-f387-43e5-9952-added25e3a75" />
 
 <img width="674" height="291" alt="image" src="https://github.com/user-attachments/assets/c8292ae9-dfc5-4f09-b9d2-eefbe8b0e34d" />
 
 <img width="572" height="288" alt="image" src="https://github.com/user-attachments/assets/5e108394-7016-404d-828a-a7176ea1b4ba" />
 
-Setelah memilih opsi nomor 1, program meminta pengguna untuk menginput beberapa informasi, yaitu nama pasien, keluhan yang dirasakan, serta jadwal konsultasi. Setelah semua data berhasil diinput, program menampilkan pesan konfirmasi “Data berhasil ditambahkan” sebagai tanda bahwa data pasien telah tersimpan dalam sistem
+Setelah memilih opsi nomor 1, program meminta pengguna untuk menginput beberapa informasi, yaitu nama pasien, keluhan yang dirasakan, serta jadwal konsultasi. Setelah semua data berhasil diinput, program menampilkan pesan konfirmasi “Data berhasil ditambahkan” sebagai tanda bahwa data pasien telah tersimpan di dalam sistem.
+
+## 2. Tampilkan Data Konsultasi 
+<img width="507" height="202" alt="image" src="https://github.com/user-attachments/assets/615aeae8-0272-4031-a50e-275d0e4e7aba" />
+
+Disini pengguna menginput angka 2, maka akan menampilkan  seluruh data konsultasi yang ada dalam sistem. 
+
+<img width="585" height="429" alt="image" src="https://github.com/user-attachments/assets/4f87992f-9f0a-43bf-b180-fc78b948a320" />
+Program akan menampilkan seluruh data pasien yang telah tersimpan, mulai dari nama pasien, keluhan yang dialami, hingga jadwal konsultasi masing-masing.
+
+## 3. Perbarui Data Konsultasi
+Sebelum Data  ke-2  diperbarui:
+<img width="586" height="420" alt="image" src="https://github.com/user-attachments/assets/571fc392-3068-4dd1-a43a-e023a4ffd7fe" />
+
+Setelah Data  ke-2  diperbarui:
+<img width="622" height="325" alt="image" src="https://github.com/user-attachments/assets/6c52708c-0c16-44f3-b0e5-872ba3e1b3eb" />
+
+Pengguna menginputkan angka 3 untuk memperbarui data konsultasi, disini pengguna memilih data nomor 2 untuk diubah. Data pasien Siti Rahma diperbarui menjadi Siti Rahma Aulia dengan jadwal konsultasi baru 14-09-2025. Setelah itu, sistem menampilkan pesan “Data berhasil diubah!” sebagai konfirmasi bahwa data berhasil diperbarui.
+
+
+
+
+
+
 
 
 
