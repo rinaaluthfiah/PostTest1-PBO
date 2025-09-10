@@ -20,4 +20,9 @@ Ketika program dijalankan, pengguna akan langsung masuk ke menu utama.
 Selanjutnya, pengguna diminta memasukkan angka sesuai dengan menu yang ingin dipilih seperti menambah, menampilkan, memperbarui, atau menghapus data.
 
 
+<img width="511" height="231" alt="Screenshot 2025-09-10 143938" src="https://github.com/user-attachments/assets/6c5ce747-be9f-4866-8fc7-4b3d6117961a" />
+
+Program meminta pengguna memasukkan angka antara 1 sampai 5 sesuai opsi yang ada. Disini pengguna memasukkan angka 8, sedangkan pilihan tidak ada di daftar menu. Karena itu, program menampilkan pesan "Pilihan tidak ada, coba lagi!". 
+
+
 
